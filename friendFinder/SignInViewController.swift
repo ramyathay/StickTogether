@@ -19,7 +19,14 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    @IBOutlet weak var userNameInput: UITextField!
+    @IBAction func findFriendsSegueueButton(sender: AnyObject) {
+        
+        
+    }
 
 
 }
 
+//AIzaSyAG29LCjXvEmBlfzvaMD6buqXO2Uyy0SPE gmaps apikey
+//AIzaSyBnPzJgcTJ_HamrYxwEMTYxm_NKIaRxCxA
